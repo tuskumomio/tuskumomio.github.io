@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://tuskumomio.github.io</id>
     <title>Tuskumomio</title>
-    <updated>2021-06-01T11:33:12.390Z</updated>
+    <updated>2021-06-01T14:53:22.767Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://tuskumomio.github.io"/>
     <link rel="self" href="https://tuskumomio.github.io/atom.xml"/>
@@ -10,4 +10,13 @@
     <logo>https://tuskumomio.github.io/images/avatar.png</logo>
     <icon>https://tuskumomio.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, Tuskumomio</rights>
+    <entry>
+        <title type="html"><![CDATA[刻度0]]></title>
+        <id>https://tuskumomio.github.io/post/ke-du-0/</id>
+        <link href="https://tuskumomio.github.io/post/ke-du-0/">
+        </link>
+        <updated>2021-06-01T14:49:21.000Z</updated>
+        <content type="html"><![CDATA[<p>为纪念而纪念的第一篇博文，儿童节快乐</p>
+]]></content>
+    </entry>
 </feed>
